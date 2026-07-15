@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR2p0125/v1
 canonical_location: https://kanripo.org/bkk/KR2p0125/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 湖北江陵鳳凰山十號漢墓木牘
   identifiers:
@@ -16,9 +16,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR2p0125_001.yaml, hash: 'sha256:94a1efbb8414b49c92dca2d88f6bf4a2518c3d53415c42248ce9f75484aade8e'}
+  - {seq: 1, filename: KR2p0125_001.yaml, hash: 'sha256:3c3615c25733a0e87c36cc3c442d3f7acfab99a81d07ff323c21048fecb9d645'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR2p0125_001.markers.yaml, hash: 'sha256:07c9a8956c53cd4da7d691823642eca8543bb1da08e9946d9651288d382ee7b1'}
+  - {seq: 1, role: markers, filename: assets/KR2p0125_001.markers.yaml, hash: 'sha256:4b85c6cee82d0e8611b4e1c3811699ea5ce7248dd7245f4e253b8b198d6b3203'}
 table_of_contents:
 - ref:
     seq: 1
@@ -30,4 +30,7 @@ table_of_contents:
   label: 散見簡牘合輯湖北江陵鳳凰山十號漢墓木牘竹簡
   type: section
   level: 1
-hash: sha256:bbd05cc6ea45d6b3d8b18a957542a6e031e96a0b6fe6f92d43aa800e212b9f78
+hash: sha256:a97e73a25c73d759ba658d48e384aadd98ee6b9174506b917fe01bc940707cd3
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
